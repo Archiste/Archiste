@@ -9,7 +9,9 @@ Joueur de jeux de rythme :D
 
 ## Compétences
 | HTML5, CSS3, JavaScript |
+
 | Outils | VSC , GitHub |
+
 | En apprentissage | SQL |
 
 ## Objectifs
