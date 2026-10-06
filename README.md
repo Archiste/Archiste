@@ -8,8 +8,8 @@ Je conçois des sites web et des interfaces soignées en HTML, CSS et JavaScript
 Joueur de jeux de rythme :D
 
 ## Compétences
-| Front-end | HTML5, CSS3, JavaScript |
-| Outils | Git, GitHub |
+| HTML5, CSS3, JavaScript |
+| Outils | VSC , GitHub |
 | En apprentissage | SQL |
 
 ## Objectifs
